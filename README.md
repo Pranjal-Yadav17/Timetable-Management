@@ -1,3 +1,9 @@
+# Time Table Management App
+
+This app is made by 
+* Pranjal Yadav
+* Charvy Koshta
+
 
 ## Project Description 
 
